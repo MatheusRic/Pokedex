@@ -14,7 +14,7 @@ export const TagDiv = styled.div`
 
   .pokemon {
     position: absolute;
-    height: 90%;
+    height: 91%;
   }
 
   .pokemonDiv {
