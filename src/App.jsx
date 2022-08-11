@@ -1,12 +1,10 @@
 import "./App.css";
-import HomePage from "./HomePage";
-import { Global } from "./styles/Global";
+import Routes from "./routes";
 
 function App() {
   return (
     <div className="App">
-      <Global />
-      <HomePage />
+      <Routes />
     </div>
   );
 }
